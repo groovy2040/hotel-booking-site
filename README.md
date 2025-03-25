@@ -1,9 +1,9 @@
-Hotel Booking Website
+**Hotel Booking Website**
 
 This project is a simple hotel booking site built using HTML, CSS, and JavaScript. It allows users to browse available rooms, check availability, and make bookings.
 
 
-Features
+**Features**
 
 User-friendly interface
 
@@ -14,7 +14,7 @@ Responsive design for desktop and mobile views
 Form validation for booking details
 
 
-How to Run
+**How to Run**
 
 Clone this repository
 
